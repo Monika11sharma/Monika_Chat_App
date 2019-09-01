@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649465347266",
+    "firebase_url": "https://monika-chat-app.firebaseio.com",
+    "project_id": "monika-chat-app",
+    "storage_bucket": "monika-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649465347266:android:34d2670600575883",
+        "android_client_info": {
+          "package_name": "com.example.monika_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649465347266-k0gt6bv75l0b1g4bctknl918snl7kg4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monika_chat_app",
+            "certificate_hash": "b19806fa29d9407385f6d630ba13b898993c2bc0"
+          }
+        },
+        {
+          "client_id": "649465347266-pe4v1k7g8pivlovv878opmrce86oqvv2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApf0Xsis9fmy0AF5ONqlwl4jmIewXTBaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649465347266-pe4v1k7g8pivlovv878opmrce86oqvv2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
