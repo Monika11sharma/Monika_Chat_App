@@ -67,7 +67,7 @@ public class LoginActivity extends AppCompatActivity implements View.OnClickList
         String Email = email.getText().toString().trim();
         String Password = password.getText().toString().trim();
 
-        if (TextUtils.isEmpty(Email) || TextUtils.isEmpty(Password)) {
+        if (TextUtils.isEmpty(Email) | TextUtils.isEmpty(Password)) {
             Toast.makeText(LoginActivity.this, "Please enter the email and password", Toast.LENGTH_SHORT).show();
             return;
         }
